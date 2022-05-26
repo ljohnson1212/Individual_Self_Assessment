@@ -1,7 +1,10 @@
 # Individual_Self_Assessment
 
 
-	My group project experience was a great one. I was a part of the initial group that came up with the first idea of using covid data and was eventually switched to wine analysis. My first task to determine what kind of technology we were going to use. It was decided that we would use Python to break down and analyze the csv file and we would use machine learning and tableau dashboard to complete the presentation. My next task was to create the slides using Google Slides. This would be the basis for our presentation. I followed the rubric to complete the mock-up slides. Once the analysis was completed we would be able to add data and visuals to the slides. My last task was to work on the dashboard. I collaborated with my group member, Luke, to complete this task.
+	My group project experience was a great one. I was a part of the initial group that came up with the first idea of using covid data and was eventually switched to wine analysis.
+	My first task to determine what kind of technology we were going to use. It was decided that we would use Python to break down and analyze the csv file and we would use machine learning and tableau dashboard to complete the presentation. 
+	My next task was to create the slides using Google Slides. This would be the basis for our presentation. I followed the rubric to complete the mock-up slides. Once the analysis was completed we would be able to add data and visuals to the slides. 
+	My last task was to work on the dashboard. I collaborated with my group member, Luke, to complete this task.
 
 	We really worked together well as a team. We used Slack and Zoom to communicate and collaborate on our tasks. And even though we were assigned certain tasks, we always provided and received feedback to enhance whatever we were working on. 
 
